@@ -16,7 +16,6 @@ int AddDigits(int num)
 
 }
 
-
 int main()
 {
     int num = 225;
@@ -24,7 +23,6 @@ int main()
 }
 
 /*
-
 //  LeetCode class implementation 
 
 class Solution {
@@ -41,5 +39,4 @@ public:
         
     }
 };
-
 */
